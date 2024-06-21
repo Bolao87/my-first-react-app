@@ -9,9 +9,12 @@ function App() {
       <title><b><i>Lady Gaga</i></b></title>
       <h1 id="title">Lady gaga , a great songwriter, singer, actress, philanthropist, dancer and fashion designer.</h1>
 
-      <h2>Brief History</h2>
+      
       <img src="/Gaga.jpeg" alt="gaga singing in a beautiful blue dress" />
-      <p>
+    
+      <h2>Brief History</h2>
+    
+    <p>
         Gaga was born on March 28, 1986 in Manhattan, New York City. By the age of 14, Gaga was performing at open mike nights in clubs and bars.
         In 2008 Gaga released her first album 'The Fame' to lukewarm radio play; Gaga toured around Europe and in gay clubs in the US to promote the album.
         Since then Gaga has gained numerous awards and nominations for a string of hits;
