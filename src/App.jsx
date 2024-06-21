@@ -26,7 +26,9 @@ function App() {
 
       <p>For more information, please visit <a id="tribute-link" href="https://en.wikipedia.org/wiki/Lady_Gaga" target="_blank">Lady Gaga on Wikipedia</a></p>
 
-
+<footer> 
+  <small>@ 2024 Alicia Romero.all rights reserved</small>
+</footer>
 
 
     </>
