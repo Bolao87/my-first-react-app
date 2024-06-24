@@ -12,7 +12,7 @@ function App() {
       
       <img src="/Gaga.jpeg" alt="gaga singing in a beautiful blue dress" />
     
-      <h2>Brief History</h2>
+      <h2> A Brief History</h2>
     
     <p>
         Gaga was born on March 28, 1986 in Manhattan, New York City. By the age of 14, Gaga was performing at open mike nights in clubs and bars.
