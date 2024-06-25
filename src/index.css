@@ -50,6 +50,10 @@ small{
   margin-left: auto;
 }
 
+.photo {
+  max-width: 600;
+  align-self: 16px
+
 }
 
 button {
