@@ -8,8 +8,8 @@ function App() {
     <>
       <title><b><i>Lady Gaga</i></b></title>
 
-      <img src="/Gaga.jpeg" alt="gaga singing in a beautiful blue dress" />
-      
+      <img src="/Gaga.jpeg" alt="gaga singing in a beautiful blue dress"  className= "photo"/>
+
       <h1 id="title">Lady gaga , a great songwriter, singer, actress, philanthropist, dancer and fashion designer.</h1>
 
 
