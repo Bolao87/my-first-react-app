@@ -33,16 +33,18 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  font-family: 'poppins', s-sans-serif;
 }
 
 h1 {
   font-size: 2rem;
   line-height: 1.1;
-  color: red;
+  color: black;
 }
 h2{
   font-size: 1rem;
-  color:blue 
+  color:red;
+
 }
 small{
   margin-left: auto;

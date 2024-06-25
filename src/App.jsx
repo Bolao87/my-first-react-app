@@ -16,7 +16,7 @@ function App() {
 
       <p>
         Gaga was born on March 28, 1986 in Manhattan, New York City.  By the age of 14, Gaga was performing at open mike nights in clubs and bars.
-        In 2008 Gaga released her first album 'The Fame' to lukewarm radio play; Gaga toured around Europe and in gay clubs in the US to promote the album.
+        In 2008 Gaga released her first album 'The Fame' <a id="tribute-link" href="https://www.youtube.com/watch?v=8mZb6pvUNmk" target="_blank">Lady Gaga first song</a> on lukewarm radio play; Gaga toured around Europe and in gay clubs in the US to promote the album.
         Since then Gaga has gained numerous awards and nominations for a string of hits;
         her first album spawned several more smash hits 'Paparazzi', 'Loveame' and 'Poker Face'.
         In 2011 Gaga released her second full-length album 'Born this Way'.
